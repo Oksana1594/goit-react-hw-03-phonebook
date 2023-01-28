@@ -1,0 +1,20 @@
+.label {
+  font-size: 22px;
+  font-weight: 500px;
+  color: darkslategray;
+}
+
+.input {
+  display: block;
+  margin-top: 15px;
+  padding: 10px 15px;
+  border-radius: 4px;
+  outline: none;
+  width: 350px;
+}
+
+.wrapper {
+  width: 384px;
+  margin: 0 auto;
+  margin-bottom: 15px;
+}

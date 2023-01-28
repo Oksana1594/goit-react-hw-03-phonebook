@@ -1,0 +1,21 @@
+.item {
+  padding: 5px 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.text {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.btn {
+  cursor: pointer;
+  padding: 5px 15px;
+  background-color: rgb(215, 71, 62);
+  font-family: inherit;
+  border: none;
+  border-radius: 5px;
+  font-size: 20px;
+}
